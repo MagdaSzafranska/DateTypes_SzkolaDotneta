@@ -1,0 +1,12 @@
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\bin\Debug\netcoreapp3.1\DateTypes_Ex_3.exe
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\bin\Debug\netcoreapp3.1\DateTypes_Ex_3.deps.json
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\bin\Debug\netcoreapp3.1\DateTypes_Ex_3.runtimeconfig.json
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\bin\Debug\netcoreapp3.1\DateTypes_Ex_3.runtimeconfig.dev.json
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\bin\Debug\netcoreapp3.1\DateTypes_Ex_3.dll
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\bin\Debug\netcoreapp3.1\DateTypes_Ex_3.pdb
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\obj\Debug\netcoreapp3.1\DateTypes_Ex_3.AssemblyInfoInputs.cache
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\obj\Debug\netcoreapp3.1\DateTypes_Ex_3.AssemblyInfo.cs
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\obj\Debug\netcoreapp3.1\DateTypes_Ex_3.csproj.CoreCompileInputs.cache
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\obj\Debug\netcoreapp3.1\DateTypes_Ex_3.dll
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\obj\Debug\netcoreapp3.1\DateTypes_Ex_3.pdb
+E:\PROGRAMMING\C#\PROGRAMS\TEMP\DateTypes_Ex_3\obj\Debug\netcoreapp3.1\DateTypes_Ex_3.genruntimeconfig.cache
